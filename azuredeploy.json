@@ -50,7 +50,7 @@
     },
     "repoURL": {
       "type": "string",
-      "defaultValue": "https://github.com/brsfurkanuzun/Master.git",
+      "defaultValue": "https://github.com/alpdemetgul/Master.git",
       "metadata": {
         "description": "The URL for the GitHub repository that contains the project to deploy."
       }
@@ -106,7 +106,7 @@
     }
   ]
 }
-© 2019 GitHub, Inc.
+Â© 2019 GitHub, Inc.
 Terms
 Privacy
 Security
